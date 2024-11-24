@@ -1,7 +1,0 @@
-openai==0.27.8
-selenium==4.7.0
-unstructured==0.7.7
-langchain==0.0.208
-deeplake==3.9.27
-tiktoken==0.0.1
-streamlit
